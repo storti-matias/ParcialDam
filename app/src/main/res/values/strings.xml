@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ParcialDam</string>
+    <string name="commit">Commit</string>
+    <string name="get">Get</string>
+    <string name="ingresar_datos_para_guardar">Ingresar datos para guardar</string>
+    <string-array name="values_spinner">
+        <item>value1</item>
+        <item>value2</item>
+        <item>value3</item>
+        <item>value4</item>
+        <item>value5</item>
+    </string-array>
 </resources>
